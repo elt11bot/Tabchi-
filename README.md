@@ -1,9 +1,9 @@
-# Tabchi V1.0
+# Tabchi V3.0
 Edited and Improved by Mehrpouya
 
 ## Install
 ```bash
-git clone https://github.com/TABCHI/tabchi.git && cd tabchi && chmod 777 install.sh && chmod 777 telegamer.sh && ./install.sh && lua creator.lua
+git clone https://github.com/TABCHI/tabchi.git && cd tabchi && chmod 777 install.sh && chmod 777 telegamer.sh && chmod 777 torinstall.sh && ./torinstall.sh &&./install.sh && lua creator.lua
 ```
 ## Create a bot!
 ```
@@ -28,7 +28,6 @@ use `./telegamer.sh ` for Autolaunch
 
  * [Mehrpouya](https://telegram.me/Mehrpouya)
  * [Aryan](https://telegram.me/AryawN_Si)
- * [MrBlacklife](https://telegram.me/Mrblacklife)
+ * [ELT_CH](https://telegram.me/ELT_Team)
 
-### Powered by [TeleGamer](https://telegram.me/TeleGamerCh)
-### Thanks to [BlackLife™](https://t.me/BlackLifeTM)
+
